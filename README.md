@@ -1,6 +1,5 @@
-# CampoElectrico
-
 # Campo Eléctrico de una Barra Cargada
+
 ## Electricidad y Magnetismo
 
 Este proyecto es una simulación interactiva que ilustra el campo eléctrico generado por una barra cargada, utilizando la librería [p5.js](https://p5js.org/). Además, incluye una carga de prueba (punto P) que se puede mover con el mouse para observar en tiempo real cómo varían las líneas de campo y el vector resultante.
